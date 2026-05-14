@@ -1,0 +1,23 @@
+[33mcommit edb5389e3c9c42f6d0722761715373829a3da7b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: geoaka <acalfoaie_george@yahoo.com>
+Date:   Thu May 14 14:52:14 2026 +0300
+
+    I have made some changes to the file
+
+[33mcommit fa7d099a20bfdbcf153fda8f4b4d036ab80b140e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: geoaka <53175003+geoaka@users.noreply.github.com>
+Date:   Thu May 14 14:15:24 2026 +0300
+
+    Create two.txt
+
+[33mcommit 8b2a906cdc6258adf443f6262870e829ad6f8546[m
+Author: geoaka <53175003+geoaka@users.noreply.github.com>
+Date:   Thu May 14 14:14:42 2026 +0300
+
+    Add  one.txt with initial content 'one'
+
+[33mcommit fddd9320645e8ddfb76b37cd0d63d73064f148d2[m
+Author: geoaka <53175003+geoaka@users.noreply.github.com>
+Date:   Thu May 14 14:12:15 2026 +0300
+
+    Initial commit
